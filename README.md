@@ -28,8 +28,7 @@ The gene (Type) tell us the number of arguments, and what kind of function it is
 
 A genome will be a chromosome enchainment like :  
 ```
-Gx = ( [x] [C1] [x] [C2] [x] [C3] [...] [x] [Cn-1] [x] [Cn] )  
-```
- + (x) represent a void waiting to be fulled by I new chromosome and two new void.  
+Gx = ( [C1] [C2] [C3] [...] [Cn-1] [Cn] )  
+```  
  + (Cn) a chromosome  
  
