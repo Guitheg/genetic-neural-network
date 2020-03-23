@@ -2,7 +2,7 @@ import os, sys
 import tlbpy
 
 def main():
-    print("Hello world")
+    print("I don't have time :'(")
 
 if __name__ == "__main__":
     main()
